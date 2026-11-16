@@ -1,0 +1,5 @@
+Flask
+reportlab
+gunicorn
+python-whois
+tldextract
